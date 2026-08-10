@@ -22,13 +22,6 @@ Já atuei em domínios críticos como **Risco de Crédito Regulatório, Risco de
 
 Perfil **hands-on com visão de arquitetura**: entro no código e enxergo o sistema como um todo, da modelagem de APIs à observabilidade em produção, passando por mensageria, cloud e automações.
 
-```text
-🏦  Domínios      Risco · Pricing · Pagamentos · Chargeback · Liquidez
-⚙️  Arquitetura   Microsserviços · DDD · Hexagonal · Event-Driven
-☁️  Cloud         AWS · Azure · Railway
-📍  Localização   São Paulo, SP — Remoto
-```
-
 ---
 
 ## 🛠️ Stack Principal
@@ -40,14 +33,12 @@ Perfil **hands-on com visão de arquitetura**: entro no código e enxergo o sist
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Cloud & Mensageria**
 
