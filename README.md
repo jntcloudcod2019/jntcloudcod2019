@@ -4,8 +4,6 @@
 
 ### Jonathan F. Silva — Engenheiro de Software Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=680&lines=Mercado+Financeiro+%26+Banc%C3%A1rio+%7C+6%2B+anos+de+experi%C3%AAncia;.NET+%7C+C%23+%7C+Node.js+%7C+Java+%7C+AWS+%7C+Azure;Microsservi%C3%A7os+%7C+DDD+%7C+Hexagonal+%7C+Event-Driven;S%C3%A3o+Paulo%2C+SP+%E2%80%94+100%25+Remoto)](https://git.io/typing-svg)
-
 </div>
 
 ---
