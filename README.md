@@ -5,6 +5,11 @@
 ### Jonathan F. Silva — Engenheiro de Software Full Stack
 
 </div>
+## 🎓 Formação Acadêmica
+
+
+| Bacharel em Ciências da Computação | UNIP | 
+| Pós-graduação em Arquitetura de Sistemas .NET & Azure | FIAP |
 
 ---
 
@@ -105,12 +110,7 @@
 
 ---
 
-## 🎓 Formação Acadêmica
 
-|---|---|---|---|
-| Bacharel em Ciências da Computação | UNIP | 
-| Pós-graduação em Arquitetura de Sistemas .NET & Azure | FIAP |
----
 
 ## 🏆 Certificações
 
